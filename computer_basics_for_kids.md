@@ -1,6 +1,8 @@
 
 # 🖥️ Computer Basics for Kids (8-Year-Old Edition)
 
+![Computer Basics for Kids](A_colorful_educational_digital_illustration_titled.png)
+
 Welcome to the fun world of computers! Let’s learn what computers are and how they work in a way that's easy and fun.
 
 ---
